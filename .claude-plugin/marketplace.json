@@ -1,0 +1,13 @@
+{
+  "name": "seo-geo-plugin",
+  "owner": {
+    "name": "daito-dot"
+  },
+  "plugins": [
+    {
+      "name": "seo-geo",
+      "source": "./seo-geo",
+      "description": "SEO & GEO (Generative Engine Optimization) for websites. Optimize for AI search engines (ChatGPT, Perplexity, Gemini, Copilot, Claude) and traditional search (Google, Bing)."
+    }
+  ]
+}
