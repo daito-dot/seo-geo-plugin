@@ -1,6 +1,6 @@
 {
   "name": "seo-geo",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "SEO & GEO (Generative Engine Optimization) for websites. Optimize for AI search engines (ChatGPT, Perplexity, Gemini, Copilot, Claude) and traditional search (Google, Bing). Includes Princeton GEO research methods, hedge density analysis, AgentFacts/NANDA protocol, and platform-specific optimization strategies.",
   "author": {
     "name": "ReScienceLab"
