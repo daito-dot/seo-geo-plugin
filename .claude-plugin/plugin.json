@@ -1,0 +1,45 @@
+{
+  "name": "seo-geo",
+  "version": "1.0.0",
+  "description": "SEO & GEO (Generative Engine Optimization) for websites. Optimize for AI search engines (ChatGPT, Perplexity, Gemini, Copilot, Claude) and traditional search (Google, Bing). Includes Princeton GEO research methods, hedge density analysis, AgentFacts/NANDA protocol, and platform-specific optimization strategies.",
+  "author": {
+    "name": "ReScienceLab"
+  },
+  "homepage": "https://github.com/ReScienceLab/opc-skills",
+  "repository": "https://github.com/ReScienceLab/opc-skills",
+  "license": "MIT",
+  "keywords": [
+    "SEO",
+    "GEO",
+    "search optimization",
+    "schema markup",
+    "JSON-LD",
+    "meta tags",
+    "keyword research",
+    "AI visibility",
+    "ChatGPT ranking",
+    "Perplexity",
+    "hedge density",
+    "AgentFacts",
+    "NANDA protocol"
+  ],
+  "skills": [
+    "../skills/seo-fundamentals/SKILL.md",
+    "../skills/geo-optimization/SKILL.md",
+    "../skills/platform-algorithms/SKILL.md",
+    "../skills/schema-markup/SKILL.md",
+    "../skills/hedge-density/SKILL.md",
+    "../skills/agentfacts-nanda/SKILL.md",
+    "../skills/discovery-strategies/SKILL.md",
+    "../skills/technical-visibility/SKILL.md"
+  ],
+  "commands": [
+    "../commands/"
+  ],
+  "connectors": {
+    "~~SEO": {
+      "description": "SEO tool API connection (Ahrefs, Semrush, DataForSEO, etc.)",
+      "optional": true
+    }
+  }
+}

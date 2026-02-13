@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "seo-tools": {
+      "description": "Optional: Connect to an SEO API (Ahrefs, Semrush, DataForSEO) for advanced keyword research and competitor analysis. Commands fall back to WebSearch when no API is connected.",
+      "command": "",
+      "args": [],
+      "env": {},
+      "disabled": true,
+      "_comment": "Enable and configure this when you have an SEO tool API key. Example for DataForSEO: set command to your MCP server binary and provide DATAFORSEO_LOGIN and DATAFORSEO_PASSWORD in env."
+    }
+  }
+}
